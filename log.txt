@@ -1,6 +1,26 @@
 
 ------------------------------------------------------------
 
+Name of Venue: Brisbane Entertainment Centre
+
+Name of City: Brisbane
+
+Date of Event: 02/19/2019
+------------------------------------------------------------
+
+
+------------------------------------------------------------
+
+Name of Venue: San Jose Center for the Performing Arts
+
+Name of City: San Jose
+
+Date of Event: 04/25/2019
+------------------------------------------------------------
+
+
+------------------------------------------------------------
+
 Song Name: the real slim shady
 
 Album Name: The Marshall Mathers LP
@@ -13,36 +33,98 @@ Preview Link: https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC
 
 ------------------------------------------------------------
 
-Movie Title: Breaking Bad
+Song Name: quit playing games with my heart
 
-Movie Release Date: 20 Jan 2008
+Album Name: Backstreet Boys
 
-IMDB Rating: Breaking Bad
+Artist Name: Backstreet Boys
 
-Movie Year: 2008–2013
+Preview Link: https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S
+------------------------------------------------------------
 
-Movie Ratings: 9.5/10
+"I want it that way"
 
-Movie Actors: Bryan Cranston, Anna Gunn, Aaron Paul, Dean Norris
+------------------------------------------------------------
+
+Song Name: "I want it that way"
+
+
+Album Name: The Hits--Chapter One
+
+Artist Name: Backstreet Boys
+
+Preview Link: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
 ------------------------------------------------------------
 
 
 ------------------------------------------------------------
 
-Name of Venue: San Jose Center for the Performing Arts
+Movie Title: Forrest Gump
 
-Name of City: San Jose
+Movie Release Date: 06 Jul 1994
 
-Date of Event: 04/25/2019
+IMDB Rating: Forrest Gump
+
+Movie Year: 1994
+
+Movie Ratings: 8.8/10
+
+Movie Actors: Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
 ------------------------------------------------------------
 
 
 ------------------------------------------------------------
 
-Name of Venue: San Jose Center for the Performing Arts
+Movie Title: The Fast and the Furious
 
-Name of City: San Jose
+Movie Release Date: 22 Jun 2001
 
-Date of Event: 04/25/2019
+IMDB Rating: The Fast and the Furious
+
+Movie Year: 2001
+
+Movie Ratings: 6.8/10
+
+Movie Actors: Paul Walker, Vin Diesel, Michelle Rodriguez, Jordana Brewster
+------------------------------------------------------------
+
+"I want it that way"
+
+------------------------------------------------------------
+
+Song Name: "I want it that way"
+
+
+Album Name: The Hits--Chapter One
+
+Artist Name: Backstreet Boys
+
+Preview Link: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+------------------------------------------------------------
+
+
+------------------------------------------------------------
+
+Song Name: The Sign
+
+Album Name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+
+Artist Name: Various Artists
+
+Preview Link: https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs
+------------------------------------------------------------
+
+"I want it that way"
+
+------------------------------------------------------------
+
+Song Name: "I want it that way"
+
+
+Album Name: The Hits--Chapter One
+
+Artist Name: Backstreet Boys
+
+Preview Link: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
 ------------------------------------------------------------
 
