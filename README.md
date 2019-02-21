@@ -54,8 +54,12 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
  !!!!BONUS!!!!
     In addition to logging the data to your terminal/bash window, out put data will stored in a .txt file called log.txt.
 
-SPOTIFY THIS 
 
-![spotify_song](https://user-images.githubusercontent.com/43711658/53131925-28c7bf80-353c-11e9-9d23-4a294293e52f.gif)
+![spotify-this-song](https://user-images.githubusercontent.com/43711658/53138221-90d5d000-3553-11e9-8c68-569da55d0092.gif)
 
+![movie-this](https://user-images.githubusercontent.com/43711658/53138248-ac40db00-3553-11e9-8b42-8a238c8810f2.gif)
+
+![concertthis](https://user-images.githubusercontent.com/43711658/53138257-b531ac80-3553-11e9-8ce2-2ca90fc12d46.gif)
+
+![concertthis](https://user-images.githubusercontent.com/43711658/53138263-bc58ba80-3553-11e9-9cdc-11bc4e9458e2.gif)
     
